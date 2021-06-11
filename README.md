@@ -2,7 +2,8 @@
 
 Data Sets
 
-The scripts from Star Wars Episodes IV, V, and VI come from available on kaggle.com.
+The scripts from Star Wars Episodes IV, V, and VI come from available on kaggle.com:
+
 https://www.kaggle.com/xvivancos/star-wars-movie-scripts
 
 Sentiment Lexicon
